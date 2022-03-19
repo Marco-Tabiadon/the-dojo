@@ -21,6 +21,10 @@
 }
 
 .landing li:hover {
+  font-size: 1.6em;
+}
+
+.landing a {
   text-decoration: none;
   color: white;
 }
